@@ -8,13 +8,8 @@ The Billing System is a Java-based application designed to automate invoice gene
 
 ✅ Product Management – Add, update, and remove products with pricing.
 
-✅ Invoice Generation – Generate bills automatically for purchases.
-
-✅ Tax & Discount Handling – Apply taxes and discounts dynamically.
-
 ✅ Customer Management – Store customer details and purchase history.
 
-✅ Payment Processing – Supports cash, card, and digital payments.
 
 ✅ Report Generation – View sales reports and transaction history.
 
@@ -32,7 +27,7 @@ Backend: JDBC (for database connectivity)
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/yourusername/billing-system-java.git
+git clone https://github.com/SakshiChobhe/billing-system-java.git
 cd billing-system-java
 
 2️⃣ Database Setup
